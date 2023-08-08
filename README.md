@@ -62,7 +62,7 @@ Now,
     2. AmazonEC2FullAccess
 
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 098501503491.dkr.ecr.us-east-1.amazonaws.com/text-s
+    - Save the URI:
 
 ## 4. Create EC2 machine (Ubuntu)
 
