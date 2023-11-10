@@ -1,4 +1,5 @@
 # End to end Text-Summarizer-Project
+http://100.26.184.215:8080/docs
 
 ## Workflows
 
